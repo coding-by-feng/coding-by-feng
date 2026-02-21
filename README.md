@@ -1,200 +1,143 @@
 <div align="center">
 
-<!-- CYBERPUNK HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:ff00ff,100:00ffff&height=220&section=header&text=KASON%20ZHAN&fontSize=80&fontColor=00ffff&fontAlignY=35&desc=%E2%96%88%E2%96%93%E2%96%92%E2%96%91%20FULL%20STACK%20DEVELOPER%20%E2%96%91%E2%96%92%E2%96%93%E2%96%88&descSize=20&descColor=ff00ff&descAlignY=55&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:00ff41&height=200&section=header&text=&fontSize=0&animation=twinkling"/>
 
-<!-- GLITCH TYPING EFFECT -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%3E+SYSTEM.INIT...+WELCOME+TO+THE+GRID;%3E+LOCATION%3A+AUCKLAND+%7C+STATUS%3A+ONLINE+%7C+MODE%3A+CYBERPUNK;%3E+LOADING+NEURAL+INTERFACE...+ACCESS+GRANTED+%E2%96%88" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%E2%94%8C%E2%94%80%E2%94%80+KASON+ZHAN+%E2%94%80%E2%94%80%E2%94%90;%E2%94%94%E2%94%80%E2%94%80+FULL+STACK+DEVELOPER+%E2%94%80%E2%94%80%E2%94%98;%24+sudo+access+--granted;root%40auckland%3A~%23+system+online" alt="Typing SVG" />
 
 <br/>
 
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<!-- CYBERPUNK ASCII ART -->
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║  ██╗  ██╗ █████╗ ███████╗ ██████╗ ███╗   ██╗                      ║
-║  ██║ ██╔╝██╔══██╗██╔════╝██╔═══██╗████╗  ██║                      ║
-║  █████╔╝ ███████║███████╗██║   ██║██╔██╗ ██║                      ║
-║  ██╔═██╗ ██╔══██║╚════██║██║   ██║██║╚██╗██║                      ║
-║  ██║  ██╗██║  ██║███████║╚██████╔╝██║ ╚████║                      ║
-║  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝                      ║
-║                                                                      ║
-║  ░▒▓ NETRUNNER  //  CODE ARCHITECT  //  DIGITAL CRAFTSMAN ▓▒░       ║
-╚══════════════════════════════════════════════════════════════════════╝
+root@kason:~# cat /etc/identity.conf
 ```
 
-<div align="center">
-
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=coding-by-feng&style=for-the-badge&color=00ffff&label=PROFILE+SCANS" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/coding-by-feng?tab=followers"><img src="https://img.shields.io/github/followers/coding-by-feng?style=for-the-badge&color=ff00ff&labelColor=0d0d0d&label=FOLLOWERS" alt="Followers"/></a>
-&nbsp;
-<a href="https://github.com/coding-by-feng?tab=repositories"><img src="https://img.shields.io/badge/REPOS-41-00ffff?style=for-the-badge&labelColor=0d0d0d" alt="Repos"/></a>
-
-<br/><br/>
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 </div>
 
-## ⚡ `> SYSTEM_STATUS: ONLINE`
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-```yaml
-# ░▒▓█ NEURAL_PROFILE.yaml █▓▒░
+      ```js
+      const kason = {
+        location: "Auckland, NZ",
+          roles: ["Full Stack Dev", "System Architect"],
+            stack: {
+                backend:  [".NET", "Spring Boot", "Node.js"],
+                    frontend: ["React", "TypeScript", "Electron"],
+                        data:     ["PostgreSQL", "MongoDB", "Redis"],
+                            devops:   ["Docker", "GitHub Actions", "CI/CD"]
+                              },
+                                currentOps: [
+                                    "Kason Tools ecosystem",
+                                        "AI agent session monitoring",
+                                            "Dispatch system architecture"
+                                              ],
+                                                status: "ACTIVE"
+                                                };
+                                                ```
 
-identity:
-  name: "Kason Zhan"
-  alias: "coding-by-feng"
-  class: "Full Stack Developer"
-  location: "Auckland, New Zealand"
-  status: "ACTIVE"
+                                                </td>
+                                                <td width="50%" valign="top">
 
-current_mission:
-  - "Building Kason Tools ecosystem"
-  - "Monitoring AI coding agents"
-  - "Crafting dispatch systems"
+                                                ```yaml
+                                                # ╔══════════════════════════════╗
+                                                # ║     NETWORK INTERFACES       ║
+                                                # ╚══════════════════════════════╝
 
-websites:
-  - https://kason.app
-  - https://aasc.work
-  - https://www.sweepo.co.nz
-```
+                                                ports:
+                                                  443: https://kason.app
+                                                    8080: https://aasc.work
+                                                      3000: https://sweepo.co.nz
 
-<div align="center">
+                                                      # ╔══════════════════════════════╗
+                                                      # ║       SYSTEM METRICS         ║
+                                                      # ╚══════════════════════════════╝
 
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+                                                      uptime: "9+ years coding"
+                                                      repos: 42
+                                                      contributions_last_year: 936
+                                                      status: "■■■■■■■■■■ OPERATIONAL"
+                                                      ```
 
-</div>
+                                                      </td>
+                                                      </tr>
+                                                      </table>
 
-## 🔮 `> TECH_ARSENAL.load()`
+                                                      <div align="center">
+                                                      <br/>
 
-<div align="center">
+                                                      `⚡ TECH STACK ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
-### ⚡ PROGRAMMING CORES
+                                                      <br/><br/>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=00ffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=00ffff)
-![C#](https://img.shields.io/badge/C%23-0d0d0d?style=for-the-badge&logo=csharp&logoColor=ff00ff)
-![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=ff00ff)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=00ffff)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=ff00ff)
+                                                      ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00ff41)
+                                                      ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00ff41)
+                                                      ![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=00ff41)
+                                                      ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00ff41)
+                                                      ![.NET](https://img.shields.io/badge/.NET-000000?style=flat-square&logo=dotnet&logoColor=00ff41)
+                                                      ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=00ff41)
+                                                      ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00ff41)
+                                                      ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=00ff41)
+                                                      ![Electron](https://img.shields.io/badge/Electron-000000?style=flat-square&logo=electron&logoColor=00ff41)
+                                                      ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00ff41)
+                                                      ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=00ff41)
+                                                      ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00ff41)
+                                                      ![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=00ff41)
+                                                      ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00ff41)
+                                                      ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=00ff41)
+                                                      ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00ff41)
+                                                      ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00ff41)
 
-### 🛡️ FRAMEWORKS & RUNTIME
+                                                      <br/>
 
-![.NET](https://img.shields.io/badge/.NET-0d0d0d?style=for-the-badge&logo=dotnet&logoColor=ff00ff)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d0d0d?style=for-the-badge&logo=springboot&logoColor=00ffff)
-![Electron](https://img.shields.io/badge/Electron-0d0d0d?style=for-the-badge&logo=electron&logoColor=00ffff)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=ff00ff)
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=00ffff)
+                                                      `📊 SYSTEM DIAGNOSTICS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
-### 🗄️ DATA VAULTS
+                                                      <br/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=00ffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=ff00ff)
-![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=ff00ff)
+                                                      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=coding-by-feng&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41&ring_color=00ff41&count_private=true&hide_title=false&card_width=400" />
+                                                      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-by-feng&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=0a4d0a&stroke=00ff4133" />
 
-### 🔧 CYBERWARE TOOLS
+                                                      <br/>
 
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=00ffff)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=ff00ff)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=00ffff)
-![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=ff00ff)
+                                                      <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-by-feng&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&card_width=300" />
 
-</div>
+                                                      <br/><br/>
 
-<div align="center">
+                                                      <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=coding-by-feng&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4130&hide_border=true&custom_title=%24%20cat%20%2Fvar%2Flog%2Fneural_activity.log" />
 
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+                                                      <br/>
 
-</div>
+                                                      `🔗 NETWORK CONNECTIONS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
-## 📡 `> SIGNAL_STATS.decrypt()`
+                                                      <br/>
 
-<div align="center">
+                                                      [![kason.app](https://img.shields.io/badge/kason.app-000000?style=flat-square&logo=googlechrome&logoColor=00ff41)](https://kason.app)&nbsp;&nbsp;
+                                                      [![aasc.work](https://img.shields.io/badge/aasc.work-000000?style=flat-square&logo=googlechrome&logoColor=00ff41)](https://aasc.work)&nbsp;&nbsp;
+                                                      [![sweepo.co.nz](https://img.shields.io/badge/sweepo.co.nz-000000?style=flat-square&logo=googlechrome&logoColor=00ff41)](https://www.sweepo.co.nz)&nbsp;&nbsp;
+                                                      [![GitHub](https://img.shields.io/badge/@coding--by--feng-000000?style=flat-square&logo=github&logoColor=00ff41)](https://github.com/coding-by-feng)
 
-<!-- GITHUB STATS WITH CYBERPUNK THEME -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=coding-by-feng&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=ff00ff&icon_color=00ffff&ring_color=ff00ff&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-by-feng&hide_border=true&background=0d0d0d&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=00ffff&currStreakNum=ff00ff&sideNums=ff00ff&dates=555555" />
+                                                      <br/><br/>
 
-<br/><br/>
+                                                      <img src="https://komarev.com/ghpvc/?username=coding-by-feng&style=flat-square&color=000000&label=VISITORS&labelColor=000000" alt="Profile Views"/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-by-feng&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=ff00ff" />
+                                                      <br/><br/>
 
-<br/><br/>
+                                                      ```
+                                                      ┌──────────────────────────────────────────────────────────────┐
+                                                      │                                                              │
+                                                      │  root@kason:~# echo $STATUS                                 │
+                                                      │  > All systems operational                                   │
+                                                      │                                                              │
+                                                      │  root@kason:~# uptime                                        │
+                                                      │  > 9 years, 936 contributions, 42 repos                      │
+                                                      │                                                              │
+                                                      │  root@kason:~# exit                                          │
+                                                      │  > Connection closed. ████████████████████████████████ 100%  │
+                                                      │                                                              │
+                                                      └──────────────────────────────────────────────────────────────┘
+                                                      ```
 
-<!-- ACTIVITY GRAPH -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=coding-by-feng&bg_color=0d0d0d&color=00ffff&line=ff00ff&point=00ffff&area=true&area_color=ff00ff&hide_border=true&custom_title=NEURAL%20ACTIVITY%20LOG" />
+                                                      <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,50:0a0a0a,100:000000&height=150&section=footer"/>
 
-</div>
-
-<div align="center">
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-## 🏗️ `> FEATURED_PROJECTS.scan()`
-
-<div align="center">
-
-<a href="https://github.com/coding-by-feng/ai-agent-session-center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=coding-by-feng&repo=ai-agent-session-center&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=ff00ff&icon_color=ff00ff" />
-</a>a>
-<a href="https://github.com/coding-by-feng/kason-tools-server">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=coding-by-feng&repo=kason-tools-server&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=ff00ff&icon_color=ff00ff" />
-</a>a>
-<a href="https://github.com/coding-by-feng/kason-tools-server-mono">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=coding-by-feng&repo=kason-tools-server-mono&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=ff00ff&icon_color=ff00ff" />
-</a>a>
-<a href="https://github.com/coding-by-feng/kason-tools-client">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=coding-by-feng&repo=kason-tools-client&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=ff00ff&icon_color=ff00ff" />
-</a>a>
-
-</div>
-
-<div align="center">
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-## 🌐 `> CONNECT_TO_GRID()`
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/▸_kason.app-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=00ffff)](https://kason.app)
-[![AASC](https://img.shields.io/badge/▸_aasc.work-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=ff00ff)](https://aasc.work)
-[![Sweepo](https://img.shields.io/badge/▸_sweepo.co.nz-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=00ffff)](https://www.sweepo.co.nz)
-[![GitHub](https://img.shields.io/badge/▸_GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ff00ff)](https://github.com/coding-by-feng)
-
-</div>
-
-<div align="center">
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   > SESSION_END                                              ║
-║   > "The future is already here —                            ║
-║      it's just not evenly distributed."                      ║
-║   > DISCONNECTING FROM THE GRID...                           ║
-║   > ████████████████████████████████ 100%                    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:ff00ff,100:0d0d0d&height=120&section=footer"/>
-
-</div>
+                                                      </div>
+  </tr>
+</table>
