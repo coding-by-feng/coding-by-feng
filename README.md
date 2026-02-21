@@ -1,7 +1,10 @@
 <div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:00ff41&height=200&section=header&text=&fontSize=0&animation=twinkling"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%E2%94%8C%E2%94%80%E2%94%80+KASON+ZHAN+%E2%94%80%E2%94%80%E2%94%90;%E2%94%94%E2%94%80%E2%94%80+FULL+STACK+DEVELOPER+%E2%94%80%E2%94%80%E2%94%98;%24+sudo+access+--granted;root%40auckland%3A~%23+system+online" alt="Typing SVG" />
-</div>div>
+
+</div>
 
 ```js
 // root@kason:~# cat /etc/identity.conf
@@ -78,7 +81,7 @@ const kason = {
 
 [![kason.app](https://img.shields.io/badge/kason.app-000000?style=flat-square&logo=googlechrome&logoColor=00ff41)](https://kason.app)&nbsp;&nbsp;[![aasc.work](https://img.shields.io/badge/aasc.work-000000?style=flat-square&logo=googlechrome&logoColor=00ff41)](https://aasc.work)&nbsp;&nbsp;[![sweepo.co.nz](https://img.shields.io/badge/sweepo.co.nz-000000?style=flat-square&logo=googlechrome&logoColor=00ff41)](https://www.sweepo.co.nz)&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/@coding--by--feng-000000?style=flat-square&logo=github&logoColor=00ff41)](https://github.com/coding-by-feng)
 
-<br/>
+<br/><br/>
 
 </div>
 
@@ -94,5 +97,7 @@ const kason = {
 ```
 
 <div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,50:0a0a0a,100:000000&height=150&section=footer"/>
-</div>div>
+
+</div>
