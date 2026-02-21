@@ -12,7 +12,7 @@ root@kason:~# cat /etc/identity.conf
 
 <table><tr><td valign="top" width="50%">
 <pre>
-  <b>// identity.js</b>b>
+  // ═══ identity.js ═══
 
   const kason = {
     location: "Auckland, NZ",
@@ -37,22 +37,21 @@ root@kason:~# cat /etc/identity.conf
                                                                                                    </pre>
                                                                                                    </td><td valign="top" width="50%">
                                                                                                    <pre>
-                                                                                                   <b># network_interfaces.yaml</b>
+                                                                                                   # ═══ network.yaml ═══
 
                                                                                                    ports:
-                                                                                                     443:  https://kason.app
-                                                                                                       8080: https://aasc.work
-                                                                                                         3000: https://sweepo.co.nz
+                                                                                                     443:  kason.app
+                                                                                                       8080: aasc.work
+                                                                                                         3000: sweepo.co.nz
                                                                                                          
-                                                                                                         <b># system_metrics.yaml</b>
+                                                                                                         # ═══ metrics.yaml ═══
                                                                                                          
-                                                                                                         uptime: "9+ years coding"
+                                                                                                         uptime: "9+ years"
                                                                                                          repos: 42
-                                                                                                         contributions_last_year: 936
-                                                                                                         open_source: true
-                                                                                                         status: "■■■■■■■■■■ OPERATIONAL"
+                                                                                                         contributions: 936
+                                                                                                         status: "OPERATIONAL"
                                                                                                          
-                                                                                                         <b># threat_level.yaml</b>
+                                                                                                         # ═══ security.yaml ═══
                                                                                                          
                                                                                                          firewall: ACTIVE
                                                                                                          encryption: AES-256
