@@ -13,8 +13,6 @@
 
 <div align="center">
 
-### 🕹️ CONTRIBUTION ZONE — PLAYER ACTIVITY LOG
-
 <table><tr>
 <td width="50%">
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-by-feng&hide_border=true&background=0d0d0d&ring=E84545&fire=FCEE0A&currStreakLabel=FCEE0A&sideLabels=FCEE0A&currStreakNum=FCEE0A&sideNums=FCEE0A&dates=666666&stroke=E84545&border=0d0d0d"/>
