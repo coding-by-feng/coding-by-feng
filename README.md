@@ -8,37 +8,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-<table><tr>
-<td width="50%">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-by-feng&hide_border=true&background=0d0d0d&ring=E84545&fire=FCEE0A&currStreakLabel=FCEE0A&sideLabels=FCEE0A&currStreakNum=FCEE0A&sideNums=FCEE0A&dates=666666&stroke=E84545&border=0d0d0d"/>
-</td>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=coding-by-feng&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FCEE0A&text_color=aaaaaa&icon_color=E84545&ring_color=E84545&count_private=true&rank_icon=percentile&hide=jupyter%20notebook"/>
-</td>
-</tr></table>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=coding-by-feng&bg_color=0d0d0d&color=FCEE0A&line=E84545&point=FCEE0A&area=true&area_color=E8454525&hide_border=true&radius=6&custom_title=%F0%9F%8E%AE+COMMIT+BATTLEGROUND"/>
-
-</div>
-
----
-
-```ts
-// ⚠ CLASSIFIED — OPERATOR: KASON ZHAN
-const KASON = {
-  class:   ["Full Stack Developer", "System Architect"],
-  stack:   ["TypeScript","C#","Java",".NET","Spring Boot","Node.js","React","Electron","Docker"],
-  ops:     ["Kason Tools Ecosystem","AI Agent Monitoring","Dispatch Architecture"],
-  links:   { app: "kason.app", work: "aasc.work", saas: "sweepo.co.nz" }
-};
-```
-
----
-
 <div align="center">
 
 ### 🔫 TECH ARSENAL
