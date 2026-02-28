@@ -5,7 +5,6 @@
 <img src="https://img.shields.io/badge/%E2%9A%A1_STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0d0d0d"/>
 <img src="https://img.shields.io/badge/%F0%9F%8E%AE_CLASS-FULL_STACK-E84545?style=for-the-badge&labelColor=0d0d0d"/>
 <img src="https://img.shields.io/badge/%F0%9F%93%8D_BASE-AUCKLAND_NZ-FCEE0A?style=for-the-badge&labelColor=0d0d0d"/>
-<img src="https://komarev.com/ghpvc/?username=coding-by-feng&style=for-the-badge&color=E84545&label=PROFILE+VIEWS&labelColor=0d0d0d"/>
 
 </div>
 
